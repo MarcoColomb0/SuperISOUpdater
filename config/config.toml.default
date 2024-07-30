@@ -66,6 +66,12 @@ directory = "Linux"
 [OperatingSystems.Linux.ArchLinux]
 enabled = true
 
+[OperatingSystems.Linux.CachyOS]
+enabled = true
+# Available editions:
+# "desktop", "handheld"
+editions = ["desktop"]
+
 [OperatingSystems.Linux.Debian]
 enabled = true
 # Available editions:

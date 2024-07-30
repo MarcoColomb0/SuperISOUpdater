@@ -132,6 +132,7 @@ The tool currently supports the following ISOs:
   - **Other**
     - FreeDOS (editions: "BonusCD", "FloppyEdition", "FullUSB", "LegacyCD", "LiteUSB", "LiveCD")
     - TempleOS (editions: "Distro", "Lite")
+    - CachyOS (editions: "desktop", "handheld")
 
 ## Contribute
 
